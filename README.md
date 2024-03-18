@@ -1,5 +1,4 @@
 ### I'm Hyeong Jun 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limbs713)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limbs710)](https://solved.ac/limbs710/)
 <!--
 **limbs713/limbs713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
